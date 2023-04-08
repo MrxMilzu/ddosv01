@@ -15,9 +15,9 @@ This DDOS includes a low level and is classified as a mild group, but if little 
 	<a href="https://deno.land" target="_blank">
     	<img src="https://img.shields.io/badge/Version-0.1-7DCDE3?style=for-the-badge" alt="Version">
 </p>
-- [x]{•} You must be asking how to install these tools.
+- [x] ```You must be asking how to install these tools.```
 
-- {•} It's quite easy. The material you need is only 5 modules And Python 2.
+- [x] ```It's quite easy. The material you need is only 5 modules And Python 2.```
 
-{•} And to run this script all you need.
+- [x] ```And to run this script all you need.```
 
