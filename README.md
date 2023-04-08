@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://telegra.ph/Random-04-08-7" width="150px"><br>
+ <img src="https://github.com/MrxMilzu/ddosv01/blob/main/images%20(23).jpeg" width="150px"><br>
  ☫ ddosv01 ☫
 </h1>
 <p align="center">
