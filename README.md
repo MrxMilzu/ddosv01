@@ -1,9 +1,13 @@
 <p align="center">
 # ddosv01
+</p>
+<p align="center">
 This type of DDOS is included in the mild category  but little by little the effect will be dangerous and can even error '404'
 </p>
 <p align="center">
-# learn before from using 
+# learn before from using
+</p>
+<p align="center">
 This DDOS includes a low level and is classified as a mild group, but if little by little you will feel the effect of the DDOS !!
 </p>
 <p align="center">
