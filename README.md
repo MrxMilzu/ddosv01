@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/MrxMilzu/ddosv01/blob/main/images%20(23).jpeg" width="200px"><br>
+ <img src="https://github.com/MrxMilzu/ddosv01/blob/main/images%20(23).jpeg" width="250px"><br>
  ☫ ddosv01 ☫
 </h1>
 <p align="center">
