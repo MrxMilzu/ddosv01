@@ -1,4 +1,5 @@
 #!/bin/bash
+#tes
 clear
 pip install 
 echo
