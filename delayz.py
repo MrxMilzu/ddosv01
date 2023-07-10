@@ -10,11 +10,12 @@ title = '''
 #*}     /*** ****     ****    ****
 #**-8888888   ****   ****    ****  777
 #**000000       0000000    00000000000
-   ╔══════════════════════════════════════════════════════╗
-   ║   * Youtube    :  Dark-KING-Mizzurxy                 ║
-   ║   * Facebook   :  Mxt-Quest                          ║
-   ║   * GITHUB     :  Milzzurxy                          ║
-   ╚══════════════════════════════════════════════════════╝
+[=]===========================================[=]
+[=]   * Youtube    :  Dark-KING-Mizzurxy      [=]
+[=]   * Facebook   :  Mxt-Quest               [=]
+[=]   * GITHUB     :  Milzzurxy               [=]
+[=]===========================================[=]
+      
    * JIKA KETAHUAN MENJUAL BELIKAN SCRIPT INI !!
    * JANGAN HARAP ADA UPDATE YANGG TERBARU
    * CATATAN : AUTHOR/PEMBUAT TIDAK PERNAH MENGGUNAKAN WHATSAPP \n JADI JIKA ADA KETIPU JANGAN SALAHKAN AUTHOR \n KARENA AUTHOR HANYA ADA DI FACEBOOK ...
