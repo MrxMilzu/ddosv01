@@ -13,7 +13,7 @@ This DDOS includes a low level and is classified as a mild group, but if little 
 </p>
 <p align="center">
 	<a href="https://deno.land" target="_blank">
-    	<img src="https://img.shields.io/badge/Version-0.1-7DCDE3?style=for-the-badge" alt="Version">
+    	<img src="https://img.shields.io/badge/Version-0.2-7DCDE3?style=for-the-badge" alt="Version">
 </p>
 <p align="center">
   <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Instal+Script+By+Facebook+MxtQuest" alt="UwU">
