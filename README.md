@@ -15,9 +15,10 @@ This DDOS includes a low level and is classified as a mild group, but if little 
 	<a href="https://deno.land" target="_blank">
     	<img src="https://img.shields.io/badge/Version-0.1-7DCDE3?style=for-the-badge" alt="Version">
 </p>
-<div>
-<span="XD"> MAU INSTALL? </span>
-</div>
+<p align="center">
+  <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=INSTALLATION+SCRIPT+TOOLS+BY+FACEBOOK+=MxtQuest" alt="UwU">
+</p>
+
 		
 - [x] ```You must be asking how to install these tools.```
 
