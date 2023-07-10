@@ -21,4 +21,5 @@ This DDOS includes a low level and is classified as a mild group, but if little 
 - [x] ```It's quite easy. The material you need is only 5 modules And Python 2.```
 
 - [x] ```And to run this script all you need.```
+     <span> MAU INSTALL? </span>
 
